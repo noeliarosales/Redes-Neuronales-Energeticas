@@ -1,1 +1,1 @@
-# Redes-Neuronales-Energ-ticas
+# Redes-Neuronales-Energeticas
