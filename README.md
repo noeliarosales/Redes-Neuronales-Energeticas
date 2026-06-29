@@ -1,7 +1,7 @@
 # Redes-Neuronales-Energeticas
 # TFG: Redes de Hopfield y Restricted Boltzmann Machines
 
-Este repositorio contiene el código desarrollado para mi Trabajo de Fin de Grado (TFG), centrado en el estudio e implementación de modelos de redes neuronales, concretamente **Redes de Hopfield** y **Restricted Boltzmann Machines (RBM)**.
+Este repositorio contiene el código desarrollado para mi Trabajo de Fin de Grado (TFG), centrado en el estudio e implementación de modelos de redes neuronales energéticas, concretamente **Redes de Hopfield** y **Restricted Boltzmann Machines (RBM)**.
 
 ## Contenido del repositorio
 
