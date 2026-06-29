@@ -7,8 +7,8 @@ Este repositorio contiene el código desarrollado para mi Trabajo de Fin de Grad
 
 El repositorio incluye dos archivos principales con el código del TFG:
 
-- `TFG_Capitulo_4_Diseno_Computacional.ipynb`: contiene la implementación y pruebas relacionadas con las **Redes de Hopfield**.
-- `rbm.py`: contiene la implementación y pruebas relacionadas con las **Restricted Boltzmann Machines (RBM)**.
+- `TFG_Capitulo_4_Diseno_Computacional.ipynb`: contiene la implementación de las **Redes de Hopfield** y **Restricted Boltzmann Machines (RBM)**.
+- `TFG_Capitulo_5_Notebook_Detallado_Resultados_Analisis.ipynb`: contiene los experimentos y pruebas relacionadas.
 
 ## Descripción
 
@@ -18,6 +18,6 @@ El objetivo de este trabajo es analizar el funcionamiento de estos modelos neuro
 
 ```txt
 .
-├── hopfield.py
-├── rbm.py
+├── TFG_Capitulo_4_Diseno_Computacional.ipynb
+├── TFG_Capitulo_5_Notebook_Detallado_Resultados_Analisis.ipynb
 └── README.md
