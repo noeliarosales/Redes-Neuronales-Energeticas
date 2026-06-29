@@ -7,7 +7,7 @@ Este repositorio contiene el código desarrollado para mi Trabajo de Fin de Grad
 
 El repositorio incluye dos archivos principales con el código del TFG:
 
-- `hopfield.py`: contiene la implementación y pruebas relacionadas con las **Redes de Hopfield**.
+- `TFG_Capitulo_4_Diseno_Computacional.ipynb`: contiene la implementación y pruebas relacionadas con las **Redes de Hopfield**.
 - `rbm.py`: contiene la implementación y pruebas relacionadas con las **Restricted Boltzmann Machines (RBM)**.
 
 ## Descripción
